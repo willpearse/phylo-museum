@@ -1,0 +1,33 @@
+{
+  "name": "phylo-museum",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A walkable tree of life: corridors are lineages, rooms are taxa, all from Wikipedia.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "ingest": "tsx scripts/ingest.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.6.1",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.184.1",
+    "@vitejs/plugin-react": "^5.0.0",
+    "playwright": "^1.60.0",
+    "tsx": "^4.22.4",
+    "typescript": "^5",
+    "vite": "^7.1.0"
+  }
+}

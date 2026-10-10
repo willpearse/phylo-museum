@@ -1,0 +1,140 @@
+Crawling Template:Taxonomy/Whippomorpha …
+  crawled 1 taxa, 2 to go
+  crawled 3 taxa, 4 to go
+  crawled 7 taxa, 22 to go
+  crawled 29 taxa, 87 to go
+  crawled 116 taxa, 151 to go
+  crawled 267 taxa, 103 to go
+  crawled 370 taxa, 85 to go
+  crawled 455 taxa, 38 to go
+  crawled 493 taxa, 0 to go
+493 taxa, 377 genera
+Reading 493 articles …
+Exhibits: 45 living + 40 extinct genera
+Reading 78 species articles …
+Reading 323 image records …
+Looking up 148 silhouettes on PhyloPic …
+
+120 rooms (84 genera), 28 corridor waypoints, 72 species
+93/120 rooms have a silhouette, 234 figures, 76 lengths
+109/120 rooms have an image; 29 undated: Whippomorpha, Globicephalinae, Grampus, Orcaella, Feresa, Peponocephala, Steno, Sousa, Sotalia, Delphinus, Lagenodelphis, Orcininae, Lissodelphis, Leucopleurus, Aethalodelphis, Neophocaena, Phocoenoides, Platanistoidea, Mesoplodon, Indopacetus, Tasmacetus, Inioidea, Inia, Mysticeti, Cetotherium, Llanocetus, Dorudontinae, Zygorhiza, Choeropsis
+Whippomorpha [suborder] 56 Ma
+  Cetaceamorpha [clade] 56 Ma
+    Cetacea [infraorder] 56 Ma  3 m
+      †Protocetidae [family] 56 Ma
+        †Maiacetus [genus] 47.5 Ma  (via Protocetinae)  2.6 m
+        †Georgiacetus [genus] 46 Ma  (via Georgiacetinae)
+      †Basilosauridae [family] 56 Ma  16 m
+        †Dorudontinae [subfamily] 56 Ma
+          †Zygorhiza [genus] 56 Ma  5.2 m  (no silhouette)
+          †Dorudon [genus] 56 Ma  5 m
+          †Cynthiacetus [genus] 40.4 Ma  9 m
+        †Basilosaurinae [subfamily] 47.8 Ma
+          †Basilosaurus [genus] 41.3 Ma  19.18 m
+          †Basilotritus [genus] 41.2 Ma  (no silhouette)
+          †Platyosphys [genus] 41.2 Ma
+          †Basiloterus [genus] 40.4 Ma  (no silhouette)
+        †Pachycetus [genus] 41.2 Ma  (via Pachycetinae)
+        †Perucetus [genus] 41.2 Ma  20 m
+      †Kalakocetus [genus] 56 Ma  (via Kalakocetidae)  (no silhouette)
+      †Remingtonocetidae [family] 55.8 Ma
+        †Kutchicetus [genus] 46 Ma
+        †Remingtonocetus [genus] 45 Ma  (no silhouette)
+      †Pakicetidae [family] 50 Ma
+        †Ichthyolestes [genus] 50 Ma
+        †Nalacetus [genus] 50 Ma  (no silhouette)
+        †Pakicetus [genus] 48.7 Ma  2 m
+      †Ambulocetidae [family] 48 Ma
+        †Ambulocetus [genus] 48 Ma  2.2 m
+        †Himalayacetus [genus] 47 Ma  (no silhouette)
+      Mysticeti [parvorder] 37.71 Ma  13.5 m
+        †Llanocetus [genus] 37.71 Ma  (via Llanocetidae)  8 m  (no silhouette)
+        †Coronodon [genus] 30 Ma  4.9 m  (no silhouette)
+        Cetotheriidae [family] 27.82 Ma
+          †Cetotherium [genus] 27.82 Ma  (via Cetotheriinae)  4 m
+          Caperea [genus] 6.2 Ma  (via Neobalaeninae)  1 spp.  3.5 m
+        †Janjucetus [genus] 26.05 Ma  (via Mammalodontidae)  3.5 m  (no silhouette)
+        Balaenopteroidea [superfamily] 23.03 Ma
+          Balaenopteridae [family] 23.03 Ma
+            Balaenoptera [genus] 13.65 Ma  1 spp.  19.9 m
+            Megaptera [genus] 7.5 Ma  1 spp.  17.2 m
+          †Eobalaenoptera [genus] 15.97 Ma  (no silhouette)
+        Balaenidae [family] 23.03 Ma  17.5 m
+          Balaena [genus] 23.03 Ma  1 spp.  17 m
+          Eubalaena [genus] 11.63 Ma  3 spp.  18 m
+        Eschrichtius [genus] 3.7 Ma  (via Eschrichtiidae)  1 spp.  9.45 m
+      Odontoceti [parvorder] 34 Ma  20 m
+        Platanistoidea [superfamily] 34 Ma
+          †Squalodon [genus] 33.9 Ma  (via Squalodontidae)  5.5 m
+          Platanista [genus] 0.012 Ma  (via Platanistidae)  2 spp.  2.6 m
+        Delphinida [clade] 33.9 Ma
+          Delphinoidea [superfamily] 28 Ma
+            Delphinidae [family] 27.82 Ma  1.7 m
+              Delphininae [subfamily] 27.82 Ma  1.7 m
+                Sousa [genus] 27.82 Ma  1 spp.  2.25 m
+                Sotalia [genus] 27.82 Ma  2 spp.  1.5 m
+                Delphinus [genus] 27.82 Ma  1 spp.  2.5 m
+                Lagenodelphis [genus] 27.82 Ma  1 spp.  1 m  (no silhouette)
+                Tursiops [genus] 23.03 Ma  3 spp.  3.75 m
+                Stenella [genus] 23.03 Ma  5 spp.  2.5 m
+              Lissodelphininae [subfamily] 27.82 Ma  1.7 m
+                Lissodelphis [genus] 27.82 Ma  2 spp.  3 m
+                Cephalorhynchus [genus] 0 Ma  6 spp.  1.8 m
+              Leucopleurus [genus] 27.82 Ma  1 spp.  2.65 m  (no silhouette)
+              Aethalodelphis [genus] 27.82 Ma  2 spp.  2.4 m  (no silhouette)
+              Orcininae [subfamily] 23.03 Ma
+                Orcinus [genus] 23.03 Ma  1 spp.  9.25 m
+                †Hemisyntrachelus [genus] 5.333 Ma  4.3 m  (no silhouette)
+              Lagenorhynchus [genus] 5.333 Ma  1 spp.  3.1 m
+              Globicephalinae [subfamily] 5.333 Ma
+                Globicephala [genus] 5.333 Ma  2 spp.  6.8 m
+                Grampus [genus] 5.333 Ma
+                Pseudorca [genus] 5.333 Ma  1 spp.  6 m
+                Orcaella [genus] 5.333 Ma  2 spp.  2.5 m
+                Feresa [genus] 5.333 Ma  1 spp.  2 m
+                Peponocephala [genus] 5.333 Ma  1 spp.  4.38 m
+                Steno [genus] 5.333 Ma  1 spp.  1.92 m
+            †Kentriodon [genus] 27.82 Ma  (via Kentriodontidae)  (no silhouette)
+            Phocoenidae [family] 15.97 Ma  1.85 m
+              Neophocaena [genus] 15.97 Ma  3 spp.  2.29 m
+              Phocoenoides [genus] 15.97 Ma  1 spp.  2.3 m
+              Phocoena [genus] 11.63 Ma  4 spp.  2.04 m
+            Monodontidae [family] 11.63 Ma  5 m
+              Delphinapterus [genus] 3.6 Ma  (via Delphinapterinae)  1 spp.  5.5 m
+              Monodon [genus] 0.774 Ma  1 spp.  3.4 m  (no silhouette)
+            †Odobenocetops [genus] 9.6 Ma  (via Odobenocetopsidae)  1.07 m
+          Lipotes [genus] 11.63 Ma  (via Lipotoidea › Lipotidae)  1 spp.  2.5 m
+        †Ankylorhiza [genus] 33.9 Ma  4.8 m  (no silhouette)
+        Physeteroidea [superfamily] 25 Ma  10.75 m
+          Physeteridae [family] 25 Ma  10.75 m
+            †Scaldicetus [genus] 20.4 Ma  (no silhouette)
+            Physeter [genus] 5.3 Ma  (via Physeterinae)  1 spp.  15.93 m
+          †Brygmophyseter [genus] 16 Ma  7 m  (no silhouette)
+          †Albicetus [genus] 16 Ma  6 m  (no silhouette)
+          †Livyatan [genus] 10 Ma  16 m  (no silhouette)
+          Kogia [genus] 5.3 Ma  (via Kogiidae › Kogiinae)  1 spp.
+        Ziphiidae [family] 23.03 Ma  (via Physeterida › Ziphioidea)  13 m
+          Hyperoodontinae [subfamily] 23.03 Ma  13 m
+            Mesoplodon [genus] 23.03 Ma  5.05 m
+            Hyperoodon [genus] 23.03 Ma  2 spp.  9.8 m
+            Indopacetus [genus] 23.03 Ma  1 spp.  (no silhouette)
+          Ziphiinae [subfamily] 23.03 Ma  13 m
+            Tasmacetus [genus] 23.03 Ma  1 spp.  6.8 m
+            Ziphius [genus] 5.333 Ma  1 spp.  7 m
+          Berardius [genus] 11.5 Ma  (via Berardiinae)  3 spp.  12.8 m
+        Inioidea [superfamily] 23.03 Ma
+          Inia [genus] 23.03 Ma  (via Iniidae)  4 spp.  2.8 m
+          Pontoporia [genus] 5.333 Ma  (via Pontoporiidae)  1 spp.  1.7 m  (no silhouette)
+    †Raoellidae [family] 53 Ma
+      †Khirtharia [genus] 53 Ma  (no silhouette)
+      †Indohyus [genus] 48.7 Ma
+      †Raoella [genus] 48.7 Ma  (no silhouette)
+  Hippopotamoidea [superfamily] 47.8 Ma  (via Ancodonta)
+    †Anthracotherium [genus] 47.8 Ma  (via Anthracotheriidae › Anthracotheriinae)  2 m
+    Hippopotamidae [family] 15.97 Ma
+      †Kenyapotamus [genus] 15.97 Ma  (via Kenyapotaminae)  (no silhouette)
+      Hippopotaminae [subfamily] 11.63 Ma
+        Choeropsis [genus] 11.63 Ma  1 spp.  1.75 m
+        †Archaeopotamus [genus] 11.63 Ma
+        †Hexaprotodon [genus] 6 Ma
+        Hippopotamus [genus] 5.333 Ma  1 spp.  0.89 m
